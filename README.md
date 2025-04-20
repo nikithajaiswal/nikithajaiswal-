@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Nikitha!
+### oi there 👋, My name is Nikitha!
 #### I am a Passionate Learner!
  Data Engineer by profession, full-stack dabbler by obsession. I turn data into decisions and coffee into code ☕💻
 
